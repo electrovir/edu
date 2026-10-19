@@ -27,7 +27,7 @@
         "test:spelling": "virmator spellcheck"
     },
     "dependencies": {
-        "hub-vir": "^0.2.0"
+        "hub-vir": "^0.2.1"
     },
     "devDependencies": {
         "@eslint/js": "10.0.1",
